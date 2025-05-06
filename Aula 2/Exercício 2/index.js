@@ -1,0 +1,1 @@
+console.log('Helder', 'Idade:', 35)
