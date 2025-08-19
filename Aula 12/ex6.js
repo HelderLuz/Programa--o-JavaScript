@@ -6,4 +6,4 @@ while (n > 0) {
         resultado += n;
     }
     n -= 1;
-}
+} 
